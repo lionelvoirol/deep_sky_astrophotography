@@ -7,4 +7,4 @@ Given two deep sky photogtraphs taken on clear summer nights, one with shooting 
 ## Author & Contributors
 Python code: Lionel Voirol
 
-Pictures taken by Christian Voirol during the summer 2018 in Switzerland
+Pictures taken by Christian Voirol during the summer 2018 in Switzerland (Mont Tendre)
