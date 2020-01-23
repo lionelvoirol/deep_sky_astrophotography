@@ -1,7 +1,7 @@
 # Deep Sky Astrophotography Animation
 Repo containing python code and results of a project to animate deep sky photographs
 
-![Image](../blob/master/blank.png?raw=true)
+![Image](../blob/master/cover.jpg?raw=true)
 
 ## Details
 Given two deep sky photogtraphs taken on clear summer nights, one with shooting star lines and one without, animates shooting stars on the given photograph so that you obtain an animated deep sky video of the perseids
