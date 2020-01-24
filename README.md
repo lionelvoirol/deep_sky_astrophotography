@@ -1,5 +1,6 @@
 # Deep Sky Astrophotography Animation
 Repo containing python code and results of a project to animate deep sky photographs.
+
  ![](demo_video.gif)
 
 ## Details
