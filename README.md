@@ -1,5 +1,5 @@
 # Deep Sky Astrophotography Animation
-Repo containing a Python code and results of a project to animate deep sky photographs.
+:milky_way: Repo containing a Python code and results of a project to animate deep sky photographs.
 
  ![](demo_video.gif)
 
