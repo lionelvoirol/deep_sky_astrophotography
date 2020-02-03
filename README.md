@@ -10,7 +10,7 @@ Given two deep sky photogtraphs taken on clear summer nights, one with shooting 
 - `numpy`
 - `PIL`
 - `matplotlib`
-- `bresenham` for the Bresenham algorithm
+- `bresenham` 
 - `ffmpeg`
 
 ## Author & Contributors
